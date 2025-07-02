@@ -84,7 +84,7 @@ FTP/
 
 ## 👨‍💻 Author
 
-[Your Name]  
+[MAYANK GARG]  
 University of Florida  
 Course: CNT 5106 – Computer Networks
 
