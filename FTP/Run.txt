@@ -1,0 +1,11 @@
+To run the program
+->Open #ftpserver and run the command ftpserver.py
+
+after this open the #ftpclient file 
+now run the command ->ftpclient.py 5106 
+
+The terminal will prompt you to enter the commands we only have two commands to initiate
+
+#Commands to run 
+1)get downloadTestFile.pptx 
+2)upload uploadTestFile.pptx
